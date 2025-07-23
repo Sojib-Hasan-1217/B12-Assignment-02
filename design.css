@@ -1,0 +1,12 @@
+/* google font */
+
+.primary-font {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal
+}
+.secondary-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
